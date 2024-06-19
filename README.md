@@ -1,1 +1,1 @@
-# -Terraform-to-provision-ec2-instance
+# Terraform-to-provision-ec2-instance
